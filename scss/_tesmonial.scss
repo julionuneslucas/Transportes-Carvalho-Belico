@@ -1,0 +1,120 @@
+.slider-nav.slick-initialized.slick-slider .slick-track .slick-slide {
+    width: auto !important;
+    opacity: .5;
+    margin: 0 9px;
+    &.slick-current{
+        opacity: 1;
+        img{
+            width: 100%;
+            // @include transition(.3s);
+        }
+    }
+    img{
+        width: 90%;
+        // @include transition(.3s);
+
+    }
+
+}
+.slider-nav.slick-initialized.slick-slider .slick-track{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.testmonial_area{
+    padding-top: 0px;
+    padding-bottom: 150px;
+    @media #{$mobile_device} {
+        padding-bottom: 50px;
+    }
+    .slider-nav{
+        div{
+            
+            img{
+                width: 100%;
+            }
+        }
+    }
+    .single_slider{
+        p{
+            font-size: 20px;
+            line-height: 32px;
+            color: #727272;
+            font-weight: 400;
+            text-decoration: underline;
+            margin-bottom: 24px;
+        }
+        h4{
+            font-size: 16px;
+            color:#2C2C2C;
+            font-weight: 400;
+            text-transform: uppercase;
+        }
+        span{
+            color: #727272;
+            font-size: 14px;
+        }
+    }
+    // .slick-slide.slick-center {
+    //     opacity: 1 !important;
+    //     img{
+    //         width: 100%;
+    //     }
+    // }
+    .testmonial_active2{
+        padding-top: 143px;
+        @media #{$mobile_device}{
+            padding-top: 80px;
+        }
+        .owl-dots{
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            display: inline-block;
+            @include flexbox();
+            @include align-items(center);
+
+            .owl-dot{
+                width: 70px;
+                height: 70px;
+                display: inline-block;
+                margin: 0 9px;
+                opacity: .5;
+                @include transition(.3s);
+                @media #{$mobile_device} {
+                    height: 40px;
+                    width: 40px;
+                }
+                &:nth-child(1){
+                    background-image: url(../img/testmonial/testemunho_1.png);
+                    background-size: cover;
+                    background-position: center center;
+                    @include border-radius(50%);
+                }
+                &:nth-child(2){
+                    background-image: url(../img/testmonial/testemunho_2.png);
+                    background-size: cover;
+                    background-position: center center;
+                    @include border-radius(50%);
+                }
+                &:nth-child(3){
+                    background-image: url(../img/testmonial/testemunho_3.png);
+                    background-size: cover;
+                    background-position: center center;
+                    @include border-radius(50%);
+                }
+                &.active{
+                    opacity: 1;
+                    width: 100px;
+                    height: 100px;
+                    @media #{$mobile_device} {
+                        height: 60px;
+                        width: 60px;
+                    }
+                }
+            }
+        }
+    }
+}
