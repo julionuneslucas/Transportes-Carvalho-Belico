@@ -19,6 +19,15 @@ Site structured by six pages (Full Screen Photo layout, Headline and Thumbnails 
 
 site is published at https://julionuneslucas.github.io/Transportes-Carvalho-Belico/
 
+## Built With
+
+- HTML5; 
+- CSS3;
+- SASS;
+- Bootstrap4; 
+- JavaScript;
+- Font-Awesome
+
 ## Author
 
 - **Júlio Lucas** - code and design.
