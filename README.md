@@ -9,12 +9,12 @@ Use a recent browser. For example: Google Chrome, Mozilla Firefox, Opera, Micros
 Business Website - Transportes Carvalho e Bélico company.
 
 Site structured by six pages (Full Screen Photo layout, Headline and Thumbnails Gallery layout, Featured Image layout, Zig-Zag layout and Form layouts): 
-- Inicio;   
+- Início;   
 - Sobre Nós; 
 - Serviços;  
 - Informações:
   - Clientes. 
-  - Noticias.  
+  - Notícias.  
 - Contactos.
 
 site is published at https://julionuneslucas.github.io/Transportes-Carvalho-Belico/
