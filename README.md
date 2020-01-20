@@ -1,5 +1,5 @@
 # Transportes Carvalho & Bélico
-A Business website.
+A business website.
 
 ## Prerequisites
 Use a recent browser. For example: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge or Vivaldi.
