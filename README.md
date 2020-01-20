@@ -1,12 +1,27 @@
-# Transportes-Carvalho-Belico
+# Transportes Carvalho & Bélico
+A Business website.
+
+## Prerequisites
+Use a recent browser. For example: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge or Vivaldi.
 
 ## About
 
 Business Website - Transportes Carvalho e Bélico company.
 
-Site structured by six pages: Inicio, Sobre Nós, Serviços, Informações (Clientes and Noticias) and Contactos.
+Site structured by six pages (Full Screen Photo layout, Headline and Thumbnails Gallery layout, Featured Image layout, Zig-Zag layout and Form layouts): 
+- Inicio;   
+- Sobre Nós; 
+- Serviços;  
+- Informações:
+  - Clientes. 
+  - Noticias.  
+- Contactos.
 
 site is published at https://julionuneslucas.github.io/Transportes-Carvalho-Belico/
+
+## Author
+
+- **Júlio Lucas** - code and design.
  
 ## Copyright and License
 
