@@ -1,5 +1,5 @@
 # Transportes Carvalho & Bélico
-A business website.
+A business website for Transportes Carvalho & Bélico a Figueira da Foz´s logistics services company. Goals are improve lead conversion rate, generate more sales and improve sales support.
 
 ## Prerequisites
 Use a recent browser. For example: Google Chrome, Mozilla Firefox, Opera, Microsoft Edge or Vivaldi.
